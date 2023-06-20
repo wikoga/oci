@@ -1,0 +1,8 @@
+[DEFAULT]
+  //paste contents of API here
+user=ocid1.user..
+fingerprint=00:00:00:00:00:00:00:00
+tenancy=ocid1.tenancy..
+region=sa-saopaulo-1
+  //paste private key pem address here
+key_file=supersecret.pem
